@@ -1,0 +1,87 @@
+Group 1:
+
+ibslenll16 //literature and language
+ibhlenll16
+
+ibslenlr16 //literature
+ibhlenlr16
+
+ibslenlp16 //literature and performance 
+
+Group 2:
+
+ibsljpna16 //japanese A 
+ibhljpna16
+
+ibsljpnb16 //japanese B
+ibhljpnb16
+
+ibslspan16 //Spanish B
+ibhlspan16 
+
+ibslfren16 //French B
+ibhlfren16 
+
+ibslabsp16 //Abinitio Spanish
+ 
+ibslabcs16 //Abinitio Chinese 
+
+Group 3:
+
+ibslecon16 //economics 
+ibhlecon16
+ 
+ibslpysc16 //pyscology 
+ibhlpysc16
+
+ibhlhist16 //history 
+
+Group 4:
+
+ibslbiol16 //biology 
+ibhlbiol16
+
+ibslchem16 //chemistry
+ibhlchem16
+
+ibslphys16 //physics
+ibhlphys16
+
+smslcsci16 //contempary science 
+
+Group 5:
+
+ibslmath16 //Mathematics 
+ibhlmath16
+
+ibslmstu16 //math studies 
+
+Group 6: 
+
+ibslecon16 //economics 
+ibhlecon16
+ 
+ibslpysc16 //pyscology 
+ibhlpysc16
+
+ibhlhist16 //history 
+
+ibslbiol16 //biology 
+ibhlbiol16
+
+ibslchem16 //chemistry
+ibhlchem16
+
+ibslmusc16 //music
+ibhlmusc16
+
+ibslvart16 //visual arts
+ibhlvart16 
+
+Group 7:
+
+ibslTOK116 //TOK class 1
+
+ibslTOK216 //TOK class 2
+
+ibslTOK316 //TOK class 3
